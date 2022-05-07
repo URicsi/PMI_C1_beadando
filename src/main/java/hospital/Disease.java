@@ -1,0 +1,5 @@
+package hospital;
+
+public enum Disease {
+    DIABETES,FLU,DEPRESSION,ANXIETY,DIARRHE,HEADACHE,STOMACH_ACHE,NAUSEA;
+}

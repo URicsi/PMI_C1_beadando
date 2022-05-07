@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patients>
+    <patient>
+        <name>Tony Stark</name>
+        <birthYear>1970</birthYear>
+        <address>10880 Malibu Point, Malibu</address>
+        <disease>HEADACHE</disease>
+    </patient>
+    <patient>
+        <name>Stephen Strange</name>
+        <birthYear>1930</birthYear>
+        <address>177A Bleecker Street, New York City</address>
+        <disease>FLU</disease>
+    </patient>
+    <patient>
+        <name>Steve Rogers</name>
+        <birthYear>1918</birthYear>
+        <address>569 Leaman Place, Brooklyn</address>
+        <disease>NAUSEA</disease>
+    </patient>
+    <patient>
+        <name>Richard</name>
+        <birthYear>1999</birthYear>
+        <address>komlo 22</address>
+        <disease>ANXIETY</disease>
+    </patient>
+</patients>
