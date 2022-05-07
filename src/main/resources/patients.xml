@@ -4,7 +4,7 @@
         <name>Tony Stark</name>
         <birthYear>1970</birthYear>
         <address>10880 Malibu Point, Malibu</address>
-        <disease>HEADACHE</disease>
+        <disease>HEADACHES</disease>
     </patient>
     <patient>
         <name>Stephen Strange</name>
@@ -13,15 +13,9 @@
         <disease>FLU</disease>
     </patient>
     <patient>
-        <name>Steve Rogers</name>
-        <birthYear>1918</birthYear>
-        <address>569 Leaman Place, Brooklyn</address>
-        <disease>NAUSEA</disease>
-    </patient>
-    <patient>
-        <name>Richard</name>
-        <birthYear>1999</birthYear>
+        <name>Ricsi</name>
+        <birthYear>2001</birthYear>
         <address>komlo 22</address>
-        <disease>ANXIETY</disease>
+        <disease>TESTICULAR_CANCER</disease>
     </patient>
 </patients>

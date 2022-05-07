@@ -152,7 +152,7 @@ public class HospitalMain {
         String diseaseString = "";
         while (diseaseString.isEmpty()) {
             try {
-                System.out.print("Enter disease of new patient: ");
+                System.out.print("Enter disease of new patient(use '_' instead of -,:,' and space): ");
                 diseaseString = scanner.nextLine();
                 disease = Disease.valueOf(diseaseString.toUpperCase());
             } catch (IllegalArgumentException e) {
