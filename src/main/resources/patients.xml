@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <patients>
     <patient>
-        <name>Tony Stark</name>
-        <birthYear>1970</birthYear>
-        <address>10880 Malibu Point, Malibu</address>
-        <disease>HEADACHES</disease>
+        <name>Lakatos Sándor</name>
+        <birthYear>1996</birthYear>
+        <address>Hardwick Beeches 19</address>
+        <disease>PTSD</disease>
     </patient>
     <patient>
-        <name>Stephen Strange</name>
-        <birthYear>1930</birthYear>
-        <address>177A Bleecker Street, New York City</address>
-        <disease>FLU</disease>
+        <name>Kiss László</name>
+        <birthYear>1978</birthYear>
+        <address>Hanson Edge 11</address>
+        <disease>MIGRAINE</disease>
     </patient>
     <patient>
-        <name>Ricsi</name>
-        <birthYear>2001</birthYear>
-        <address>komlo 22</address>
-        <disease>TESTICULAR_CANCER</disease>
+        <name>Sütő Tamás</name>
+        <birthYear>2003</birthYear>
+        <address>Smithick Hill 22</address>
+        <disease>CORONAVIRUS</disease>
     </patient>
 </patients>

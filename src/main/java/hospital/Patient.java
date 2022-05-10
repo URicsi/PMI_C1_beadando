@@ -43,11 +43,10 @@ public class Patient {
 
     @Override
     public String toString() {
-        return " " +
+        return "\n" +
                 name +
                 ", " + birthYear +
                 ", " + address +
-                ", " + disease +
-                "} \n";
+                ", " + disease;
     }
 }
