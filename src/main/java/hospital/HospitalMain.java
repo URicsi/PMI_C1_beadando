@@ -135,8 +135,7 @@ public class HospitalMain {
                 birthYear = scanner.nextInt();
                 scanner.nextLine();
                 if (birthYear < 1900 || birthYear > 2022) {
-                    System.out.println("Birth year cannot be less than" +
-                            " 1900 or greater 2022.");
+                    System.out.println("Birth year cannot be less than 1900 or greater 2022.");
                 }
             } catch (InputMismatchException e) {
                 System.out.println("Not valid birth year.");
@@ -155,7 +154,7 @@ public class HospitalMain {
                 diseaseString = scanner.nextLine();
                 disease = Disease.valueOf(diseaseString.toUpperCase());
             } catch (IllegalArgumentException e) {
-                System.out.println("Not valid disease.");
+                System.out.println("Not existing disease.");
                 diseaseString = "";
             }
         }
